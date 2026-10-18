@@ -1,0 +1,7 @@
+interface:
+  display_name: "MBA Coursework Workflow"
+  short_description: "Canvas, research, writing, and deck workflow."
+  default_prompt: "Use $mba-coursework-workflow to manage this MBA assignment from Canvas intake through final deliverable verification."
+
+policy:
+  allow_implicit_invocation: true
